@@ -149,3 +149,7 @@ function Batch(data) {
 document.getElementById ("batch-date-input").value = data.value;
 
 }
+
+function Sub() {
+  window.open("https://www.genesistally.com/services/i-need-free-gst-training/thank-you");
+}
